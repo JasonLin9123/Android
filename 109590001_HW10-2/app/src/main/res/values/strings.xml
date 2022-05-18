@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">109590001_HW10-2</string>
+    <string-array name="spinner_item">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
